@@ -6,6 +6,8 @@ SITENAME = 'JoeHealthCoach'
 SITEURL = ''
 
 PATH = 'content'
+OUTPUT_PATH = 'docs'
+
 
 TIMEZONE = 'America/Boise'
 
