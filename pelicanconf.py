@@ -3,7 +3,7 @@
 
 AUTHOR = 'Joe'
 SITENAME = 'JoeHealthCoach'
-SITEURL = 'joe-coach'
+SITEURL = ''
 
 PATH = 'content'
 OUTPUT_PATH = 'docs'
